@@ -22,7 +22,7 @@ The system utilizes **NLP techniques** to analyze movie metadata, including genr
 * **Theater Dark Mode:** A custom "Cinema-themed" interface created using advanced CSS injection.
 * **Base64 Image Encoding:** Background images are encoded directly into the CSS for faster loading and repository cleanliness.
 * **Optimized Card Layout:** A custom **3+2 vertical column split** ensures that long movie titles remain perfectly aligned without breaking the layout.
-* **Non-Tech Friendly:** UI elements are labeled intuitively (e.g., *"🎬 Click for Movie Details"*) to ensure accessibility for all users.
+* **Non-Tech Friendly:** UI elements are labeled intuitively (e.g., *"Click for Details"*) to ensure accessibility for all users.
 
 ---
 
@@ -46,4 +46,4 @@ The system utilizes **NLP techniques** to analyze movie metadata, including genr
 ## How to Run Locally
 * **Clone the repository:**
   ```bash
-  git clone [https://github.com/debalina-saha05/movie-recommender-system-project2.git](https://github.com/debalina-saha05/movie-recommender-system-project2.git)
+  git clone https://github.com/debalina-saha05/movie-recommender-system-project2.git
