@@ -4,6 +4,15 @@ import pandas as pd
 import os
 import gdown
 
+# File ID
+file_id = '1gjj5dOnzGTxzUjq2nGptVTdQxJWUovnB'
+url = f'https://drive.google.com/uc?id={file_id}'
+output = 'similarity.pkl'
+
+# This checks if the file exists on the Streamlit server; if not, it downloads it
+if not os.path.exists(output):
+    gdown.download(url, output, quiet=False)
+
 # 1. Page Config
 st.set_page_config(
     page_title="Movie Recommender System",
