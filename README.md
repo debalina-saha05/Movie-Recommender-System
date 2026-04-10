@@ -6,6 +6,13 @@ A professional **Content-Based Movie Recommendation System** developed as a caps
 [**Click here to view the Live Application**](https://movie-recommender-system-project2.streamlit.app/)
 
 ---
+## Project Structure
+
+* `movie_recommender.ipynb`: Jupyter Notebook containing data preprocessing, EDA, and model training.
+* `app.py`: The main Streamlit application file.
+* `style.css`: Custom CSS for the cinema-themed user interface.
+* `movie_dict.pkl`: Serialized movie data used by the web app.
+* `requirements.txt`: List of required Python libraries for the project.
 
 ## Technical Highlights
 
