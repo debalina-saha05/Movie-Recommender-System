@@ -2,7 +2,7 @@
 
 A professional **Content-Based Movie Recommendation System** developed as a capstone project for my internship. This application demonstrates advanced skills in **Natural Language Processing (NLP)**, **Cloud Architecture**, and **Modern UI/UX Engineering**.
 
-## 🚀 Live Demo
+## Live Demo
 [**Click here to view the Live Application**](https://movie-recommender-system-project2.streamlit.app/)
 
 ---
