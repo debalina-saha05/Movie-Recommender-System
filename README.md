@@ -44,7 +44,7 @@ The system utilizes **NLP techniques** to analyze movie metadata, including genr
 ---
 
 ## How to Run Locally
-* **Clone the repository:**
+ **Clone the repository:**
   git clone
     ```bash
    https://github.com/debalina-saha05/Movie-Recommender-System.git
